@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_boomerangblock",
+    "path": "sprites/spr_boomerangblock/spr_boomerangblock.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_grayblockparent",
+    "path": "objects/obj_grayblockparent/obj_grayblockparent.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":8.0,"y":8.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_boomerang","path":"objects/obj_boomerang/obj_boomerang.yy",},"parent":{"name":"obj_boomerangblock","path":"objects/obj_boomerangblock/obj_boomerangblock.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_boomerang_b","path":"objects/obj_boomerang_b/obj_boomerang_b.yy",},"parent":{"name":"obj_boomerangblock","path":"objects/obj_boomerangblock/obj_boomerangblock.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Gray Blocks",
+    "path": "folders/Objects/Blocks/Gray Blocks.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_boomerangblock",
+  "tags": [],
+  "resourceType": "GMObject",
+}

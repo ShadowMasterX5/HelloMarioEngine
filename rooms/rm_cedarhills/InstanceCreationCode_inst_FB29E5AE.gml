@@ -1,0 +1,1 @@
+varmsg = "Try picking up those colored bricks. Things like P-switches, shells, and springs can also be picked up!"

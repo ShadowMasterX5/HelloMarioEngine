@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_lava_r",
+    "path": "sprites/spr_lava_r/spr_lava_r.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "spr_slope_r",
+    "path": "sprites/spr_slope_r/spr_slope_r.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_lava",
+    "path": "objects/obj_lava/obj_lava.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":16.0,"y":16.0,},
+  ],
+  "eventList": [],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Decoration",
+    "path": "folders/Objects/Decoration.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_lava_r",
+  "tags": [],
+  "resourceType": "GMObject",
+}

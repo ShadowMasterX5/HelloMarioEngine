@@ -1,0 +1,1 @@
+powerup = cs_carrot

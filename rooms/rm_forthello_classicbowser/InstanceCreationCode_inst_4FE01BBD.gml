@@ -1,0 +1,1 @@
+varmsg = "This room has classic scrolling, so the camera won't move backwards!"

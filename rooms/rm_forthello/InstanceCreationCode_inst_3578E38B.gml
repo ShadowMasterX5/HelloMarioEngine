@@ -1,0 +1,1 @@
+varmsg = "This door will take you to Mouser. Fight bombs with bombs!"

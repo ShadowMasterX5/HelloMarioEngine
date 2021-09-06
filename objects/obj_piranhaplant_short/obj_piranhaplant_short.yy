@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "spr_piranhaplant_short",
+    "path": "sprites/spr_piranhaplant_short/spr_piranhaplant_short.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_piranhaplant",
+    "path": "objects/obj_piranhaplant/obj_piranhaplant.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":8.0,"y":-9.0,},
+    {"x":12.0,"y":12.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":10,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_piranhaplant_short","path":"objects/obj_piranhaplant_short/obj_piranhaplant_short.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Cave",
+    "path": "folders/Objects/Enemies/Cave.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_piranhaplant_short",
+  "tags": [],
+  "resourceType": "GMObject",
+}

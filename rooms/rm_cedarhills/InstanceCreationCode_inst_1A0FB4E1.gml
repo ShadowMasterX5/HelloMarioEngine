@@ -1,0 +1,1 @@
+varmsg = "Did you know that the Hello Mario Engine includes thousands of code comments in order to help you understand the game's code?"

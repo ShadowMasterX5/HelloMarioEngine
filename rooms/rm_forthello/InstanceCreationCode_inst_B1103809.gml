@@ -1,0 +1,1 @@
+varmsg = "Do you really think that you can reach Bowser's room?"

@@ -1,0 +1,1 @@
+varmsg = "This door will take you to Lemmy Koopa. What is this, a circus?!"

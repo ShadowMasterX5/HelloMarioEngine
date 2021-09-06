@@ -1,0 +1,1 @@
+varmsg = "If a powerup is blocked from coming out of its block, it will spawn out of the side!"

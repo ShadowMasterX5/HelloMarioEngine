@@ -1,0 +1,1 @@
+myroom = rm_wildsands_secret

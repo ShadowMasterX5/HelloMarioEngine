@@ -1,0 +1,1 @@
+varmsg = "This door will take you to Ludwig von Koopa, the last of the seven koopalings!"

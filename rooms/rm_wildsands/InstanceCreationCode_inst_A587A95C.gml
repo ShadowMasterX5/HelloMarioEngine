@@ -1,0 +1,1 @@
+varmsg = "Haha, you found a secret block! Too bad I don't do anything..."

@@ -1,0 +1,47 @@
+{
+  "spriteId": {
+    "name": "spr_yoshi_walk",
+    "path": "sprites/spr_yoshi_walk/spr_yoshi_walk.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "spr_smallmask",
+    "path": "sprites/spr_smallmask/spr_smallmask.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_physicsparent",
+    "path": "objects/obj_physicsparent/obj_physicsparent.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":16.0,"y":0.0,},
+    {"x":16.0,"y":16.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_yoshi_abandon","path":"objects/obj_yoshi_abandon/obj_yoshi_abandon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_mario","path":"objects/obj_mario/obj_mario.yy",},"parent":{"name":"obj_yoshi_abandon","path":"objects/obj_yoshi_abandon/obj_yoshi_abandon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_yoshi_abandon","path":"objects/obj_yoshi_abandon/obj_yoshi_abandon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Rides",
+    "path": "folders/Objects/Special/Do Not Use/Powerup/Rides.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_yoshi_abandon",
+  "tags": [],
+  "resourceType": "GMObject",
+}

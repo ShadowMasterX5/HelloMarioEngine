@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "spr_bombshroom",
+    "path": "sprites/spr_bombshroom/spr_bombshroom.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_powerupparent",
+    "path": "objects/obj_powerupparent/obj_powerupparent.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":5.0,},
+    {"x":10.0,"y":10.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_bombshroom","path":"objects/obj_bombshroom/obj_bombshroom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Pickup",
+    "path": "folders/Objects/Special/Do Not Use/Powerup/Pickup.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_bombshroom",
+  "tags": [],
+  "resourceType": "GMObject",
+}

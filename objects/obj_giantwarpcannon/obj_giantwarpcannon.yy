@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_enemymaskbig",
+    "path": "sprites/spr_enemymaskbig/spr_enemymaskbig.yy",
+  },
+  "solid": false,
+  "visible": false,
+  "spriteMaskId": {
+    "name": "spr_enemymasktall",
+    "path": "sprites/spr_enemymasktall/spr_enemymasktall.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_solid",
+    "path": "objects/obj_solid/obj_solid.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":16.0,"y":0.0,},
+    {"x":16.0,"y":16.0,},
+  ],
+  "eventList": [],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Warp",
+    "path": "folders/Objects/Warp.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_giantwarpcannon",
+  "tags": [],
+  "resourceType": "GMObject",
+}

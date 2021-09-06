@@ -1,0 +1,1 @@
+varmsg = "This door will take you to Roy Koopa. This cool dude wears sunglasses indoors!"

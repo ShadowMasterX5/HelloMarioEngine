@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "spr_jumppiranha_red",
+    "path": "sprites/spr_jumppiranha_red/spr_jumppiranha_red.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_jumppiranha",
+    "path": "objects/obj_jumppiranha/obj_jumppiranha.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":8.0,"y":0.0,},
+    {"x":10.0,"y":10.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":2,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_jumppiranha_red","path":"objects/obj_jumppiranha_red/obj_jumppiranha_red.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Cave",
+    "path": "folders/Objects/Enemies/Cave.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_jumppiranha_red",
+  "tags": [],
+  "resourceType": "GMObject",
+}

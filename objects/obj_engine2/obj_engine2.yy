@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_engine2",
+    "path": "sprites/spr_engine2/spr_engine2.yy",
+  },
+  "solid": false,
+  "visible": false,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_deactivation",
+    "path": "objects/obj_deactivation/obj_deactivation.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":24.0,"y":24.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_engine2","path":"objects/obj_engine2/obj_engine2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_engine2","path":"objects/obj_engine2/obj_engine2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Airship",
+    "path": "folders/Objects/Enemies/Airship.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_engine2",
+  "tags": [],
+  "resourceType": "GMObject",
+}

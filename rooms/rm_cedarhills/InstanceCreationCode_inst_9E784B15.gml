@@ -1,0 +1,1 @@
+varmsg = "Switches will turn coins into bricks, bricks into coins, and will also reveal a secret spring. But only until the song ends."

@@ -1,0 +1,48 @@
+{
+  "spriteId": {
+    "name": "spr_galoomba_hold",
+    "path": "sprites/spr_galoomba_hold/spr_galoomba_hold.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "spr_square",
+    "path": "sprites/spr_square/spr_square.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_holdparent",
+    "path": "objects/obj_holdparent/obj_holdparent.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":8.0,"y":8.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_galoomba_hold","path":"objects/obj_galoomba_hold/obj_galoomba_hold.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_enemyparent","path":"objects/obj_enemyparent/obj_enemyparent.yy",},"parent":{"name":"obj_galoomba_hold","path":"objects/obj_galoomba_hold/obj_galoomba_hold.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":10,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_galoomba_hold","path":"objects/obj_galoomba_hold/obj_galoomba_hold.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_galoomba_hold","path":"objects/obj_galoomba_hold/obj_galoomba_hold.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Land",
+    "path": "folders/Objects/Special/Do Not Use/Enemy/Land.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_galoomba_hold",
+  "tags": [],
+  "resourceType": "GMObject",
+}

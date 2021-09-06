@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "spr_door_hidden",
+    "path": "sprites/spr_door_hidden/spr_door_hidden.yy",
+  },
+  "solid": false,
+  "visible": false,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_door",
+    "path": "objects/obj_door/obj_door.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":16.0,},
+    {"x":16.0,"y":16.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_doormario","path":"objects/obj_doormario/obj_doormario.yy",},"parent":{"name":"obj_door_hidden","path":"objects/obj_door_hidden/obj_door_hidden.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Warp",
+    "path": "folders/Objects/Warp.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_door_hidden",
+  "tags": [],
+  "resourceType": "GMObject",
+}

@@ -1,0 +1,47 @@
+{
+  "spriteId": {
+    "name": "spr_rex",
+    "path": "sprites/spr_rex/spr_rex.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "spr_enemymasktall",
+    "path": "sprites/spr_enemymasktall/spr_enemymasktall.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_deactenemyparent",
+    "path": "objects/obj_deactenemyparent/obj_deactenemyparent.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":16.0,"y":0.0,},
+    {"x":16.0,"y":16.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_rex","path":"objects/obj_rex/obj_rex.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":11,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_rex","path":"objects/obj_rex/obj_rex.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_rex","path":"objects/obj_rex/obj_rex.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Land",
+    "path": "folders/Objects/Enemies/Land.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_rex",
+  "tags": [],
+  "resourceType": "GMObject",
+}

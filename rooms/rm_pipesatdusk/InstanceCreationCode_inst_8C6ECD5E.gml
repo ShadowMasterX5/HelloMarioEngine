@@ -1,0 +1,1 @@
+myroom = rm_pipesatdusk_snow

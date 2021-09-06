@@ -1,0 +1,1 @@
+varmsg = "Be careful! Red leafed piranha plants will come out even if you are standing on the pipe!"

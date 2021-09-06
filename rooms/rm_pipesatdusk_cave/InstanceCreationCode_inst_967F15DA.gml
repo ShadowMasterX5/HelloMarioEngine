@@ -1,0 +1,1 @@
+varmsg = "Woah. That lava is defying gravity. Cool, huh?"

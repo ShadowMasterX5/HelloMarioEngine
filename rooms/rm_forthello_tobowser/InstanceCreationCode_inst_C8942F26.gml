@@ -1,0 +1,1 @@
+varmsg = "This door will take you to Bowser, the king of all koopas!"

@@ -1,0 +1,1 @@
+varmsg = "Did you notice the grassy things on the ground? If you press control on top of them, you can pick them up!"

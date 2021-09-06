@@ -1,0 +1,1 @@
+varmsg = "Boarded up doors can be blown up. Try throwing a bob-omb there! Also, you can unlock locked doors with keys!"

@@ -1,0 +1,1 @@
+varmsg = "If you collect 5 Ace Coins, you will get a 1up!"

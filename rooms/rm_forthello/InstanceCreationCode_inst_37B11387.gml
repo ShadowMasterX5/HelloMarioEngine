@@ -1,0 +1,1 @@
+varmsg = "This door will take you to Morton Koopa Jr. What a heavyweight!"

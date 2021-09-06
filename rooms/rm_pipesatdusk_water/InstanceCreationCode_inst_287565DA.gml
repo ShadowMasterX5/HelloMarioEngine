@@ -1,0 +1,1 @@
+varmsg = "Hold the up key to swim higher, and hold the down key to not swim as high."

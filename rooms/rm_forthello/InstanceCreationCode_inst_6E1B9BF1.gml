@@ -1,0 +1,1 @@
+varmsg = "This door will take you to Boom Boom, the guardian of many forts!"

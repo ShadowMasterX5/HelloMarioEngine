@@ -1,0 +1,1 @@
+varmsg = "Did you know that you can carry objects between different rooms? Try bringing a key here!"

@@ -1,0 +1,1 @@
+varmsg = "Red E-Switches can not be moved, but they can be reused!"

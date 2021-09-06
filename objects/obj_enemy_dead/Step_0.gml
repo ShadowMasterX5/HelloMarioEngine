@@ -1,0 +1,10 @@
+/// @description Dead enemy logic
+
+//Cap fall speed
+if vspeed > 4
+    vspeed = 4
+
+//Destroy outside room
+if bbox_top > room_height
+    instance_destroy()
+

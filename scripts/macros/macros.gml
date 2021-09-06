@@ -1,0 +1,50 @@
+function macros() {
+#macro cs_small 0
+#macro cs_big 1
+#macro cs_fire 2
+#macro cs_hammer 3
+#macro cs_leaf 4
+#macro cs_tanooki 5
+#macro cs_frog 6
+#macro cs_bomb 7
+#macro cs_ice 8
+#macro cs_super 9
+#macro cs_carrot 10
+#macro cs_ninja 11
+#macro cs_bee 12
+#macro cs_shell 13
+#macro cs_penguin 14
+#macro cs_propeller 15
+#macro cs_boomerang 16
+#macro cs_walljump 17
+#macro cs_squirrel 18
+#macro cs_cloud 19
+#macro cs_rock 20
+#macro cs_pyre 21
+#macro cs_swooper 22
+#macro cs_karate 23
+#macro cs_crown 24
+#macro cs_coin -1
+#macro cs_greenyoshi -10
+#macro cs_redyoshi -11
+#macro cs_yellowyoshi -12
+#macro cs_blueyoshi -13
+#macro cs_kuriboshoe -14
+#macro cs_baburushoe -15
+#macro cs_dossunshoe -16
+#macro cs_jugemushoe -17
+#macro cs_1up -18
+#macro cs_3up -19
+#macro cs_poison -20
+#macro cs_star -21
+#macro cs_key -22
+#macro cs_spring -23
+#macro cs_superspring -24
+#macro cs_pswitch -25
+#macro cs_eswitch -26
+#macro cs_propellerblock -27
+#macro cs_beanstalk -28
+
+
+
+}

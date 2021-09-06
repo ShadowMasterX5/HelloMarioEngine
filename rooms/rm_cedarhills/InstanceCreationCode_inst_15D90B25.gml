@@ -1,0 +1,1 @@
+varmsg = "Bringing a key to this keyhole will open up a secret exit on the world map!"

@@ -1,0 +1,1 @@
+varmsg = "This door will take you to Classic Bowser! Why does he have that axe anyways?"

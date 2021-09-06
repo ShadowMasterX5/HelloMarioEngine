@@ -1,0 +1,1 @@
+varmsg = "Be careful! The ground here is extra slippery!"

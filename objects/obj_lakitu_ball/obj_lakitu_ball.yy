@@ -1,0 +1,45 @@
+{
+  "spriteId": {
+    "name": "spr_lakitu",
+    "path": "sprites/spr_lakitu/spr_lakitu.yy",
+  },
+  "solid": false,
+  "visible": false,
+  "spriteMaskId": {
+    "name": "spr_mask16x32",
+    "path": "sprites/spr_mask16x32/spr_mask16x32.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_lakitu",
+    "path": "objects/obj_lakitu/obj_lakitu.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":16.0,"y":16.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_lakitu_ball","path":"objects/obj_lakitu_ball/obj_lakitu_ball.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Desert",
+    "path": "folders/Objects/Enemies/Desert.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_lakitu_ball",
+  "tags": [],
+  "resourceType": "GMObject",
+}

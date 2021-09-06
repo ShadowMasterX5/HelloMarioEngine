@@ -1,0 +1,1 @@
+varmsg = "Use the arrow keys to control the coin chain block!"

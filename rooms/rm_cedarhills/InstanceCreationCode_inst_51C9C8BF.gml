@@ -1,0 +1,1 @@
+varmsg = "Welcome to the world of the Hello Mario Engine! These test areas showcase the various features included in the engine. Like what you see? Then why not try making your own levels too?"

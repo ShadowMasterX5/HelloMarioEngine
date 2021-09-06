@@ -1,0 +1,1 @@
+varmsg = "Get ready for some autoscrolling!"

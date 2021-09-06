@@ -1,0 +1,1 @@
+varmsg = "You can use the spin jump to bounce over those pokeys, or you can use the rope if you are lazy."
